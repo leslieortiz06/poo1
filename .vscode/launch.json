@@ -1,0 +1,749 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "p104_PuntoCirculo.App",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "p01_HolaMundo",
+            "request": "launch",
+            "mainClass": "Actividades.p01_HolaMundo",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p02_AreaCirculo",
+            "request": "launch",
+            "mainClass": "Actividades.p02_AreaCirculo",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p03_AreaTriangulo",
+            "request": "launch",
+            "mainClass": "Actividades.p03_AreaTriangulo",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p04_PagaTrabajador",
+            "request": "launch",
+            "mainClass": "Actividades.p04_PagaTrabajador",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p05_OperacionesMatematicas",
+            "request": "launch",
+            "mainClass": "Actividades.p05_OperacionesMatematicas",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p06_PromedioCalificaciones",
+            "request": "launch",
+            "mainClass": "Actividades.p06_PromedioCalificaciones",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p07_OperadoresAsignacion",
+            "request": "launch",
+            "mainClass": "Actividades.p07_OperadoresAsignacion",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p08_FuncionesTrigonometricas",
+            "request": "launch",
+            "mainClass": "Actividades.p08_FuncionesTrigonometricas",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p09_DividirEnCifras",
+            "request": "launch",
+            "mainClass": "Actividades.p09_DividirEnCifras",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p16_TrabajandoEnteros",
+            "request": "launch",
+            "mainClass": "Actividades.p16_TrabajandoEnteros",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p17_TrabajandoFlotantes",
+            "request": "launch",
+            "mainClass": "Actividades.p17_TrabajandoFlotantes",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p18_TrabajandoContantes",
+            "request": "launch",
+            "mainClass": "Actividades.p18_TrabajandoContantes",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p19_TrabajandoCaracteres",
+            "request": "launch",
+            "mainClass": "Actividades.p19_TrabajandoCaracteres",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p20_ConversionTipos",
+            "request": "launch",
+            "mainClass": "Actividades.p20_ConversionTipos",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p21_VerificaNumero",
+            "request": "launch",
+            "mainClass": "Actividades.p21_VerificaNumero",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p22_VerificaSuma",
+            "request": "launch",
+            "mainClass": "Actividades.p22_VerificaSuma",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p23_ConvertirTemperaturas",
+            "request": "launch",
+            "mainClass": "Actividades.p23_ConvertirTemperaturas",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p24_PagaTrabajadorv2",
+            "request": "launch",
+            "mainClass": "Actividades.p24_PagaTrabajadorv2",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p25_EstacionesAño",
+            "request": "launch",
+            "mainClass": "Actividades.p25_EstacionesAño",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p26_TipoAngulo",
+            "request": "launch",
+            "mainClass": "Actividades.p26_TipoAngulo",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p27_AceptarEstudiante",
+            "request": "launch",
+            "mainClass": "Actividades.p27_AceptarEstudiante",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p28_LeyDeNewton",
+            "request": "launch",
+            "mainClass": "Actividades.p28_LeyDeNewton",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p29_Calculadora",
+            "request": "launch",
+            "mainClass": "Actividades.p29_Calculadora",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p30_DiaSemana",
+            "request": "launch",
+            "mainClass": "Actividades.p30_DiaSemana",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p31_NumerosRomanos",
+            "request": "launch",
+            "mainClass": "Actividades.p31_NumerosRomanos",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p32_PagaEstacionamiento",
+            "request": "launch",
+            "mainClass": "Actividades.p32_PagaEstacionamiento",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p39_Numeros1a100",
+            "request": "launch",
+            "mainClass": "Actividades.p39_Numeros1a100",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p40_Numeros1a100",
+            "request": "launch",
+            "mainClass": "Actividades.p40_Numeros1a100",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p41_ProcesaCalificaciones",
+            "request": "launch",
+            "mainClass": "Actividades.p41_ProcesaCalificaciones",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p42_TablaMultiplicar",
+            "request": "launch",
+            "mainClass": "Actividades.p42_TablaMultiplicar",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p43_ConteoNumeros",
+            "request": "launch",
+            "mainClass": "Actividades.p43_ConteoNumeros",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p44_ParesAscendente",
+            "request": "launch",
+            "mainClass": "Actividades.p44_ParesAscendente",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p45_ImparesDescendente",
+            "request": "launch",
+            "mainClass": "Actividades.p45_ImparesDescendente",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p46_TablaConversion",
+            "request": "launch",
+            "mainClass": "Actividades.p46_TablaConversion",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p47_ConjeturaCollatz",
+            "request": "launch",
+            "mainClass": "Actividades.p47_ConjeturaCollatz",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p52_Numeros1aN",
+            "request": "launch",
+            "mainClass": "Actividades.p52_Numeros1aN",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p53_NumerosNa1",
+            "request": "launch",
+            "mainClass": "Actividades.p53_NumerosNa1",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p54_ArribaAbajo",
+            "request": "launch",
+            "mainClass": "Actividades.p54_ArribaAbajo",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p55_SumaParesImpares",
+            "request": "launch",
+            "mainClass": "Actividades.p55_SumaParesImpares",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p56_SumaPromedio",
+            "request": "launch",
+            "mainClass": "Actividades.p56_SumaPromedio",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p57_TablasMultiplicar",
+            "request": "launch",
+            "mainClass": "Actividades.p57_TablasMultiplicar",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p58_Piramide",
+            "request": "launch",
+            "mainClass": "Actividades.p58_Piramide",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p59_FactorialNumeros",
+            "request": "launch",
+            "mainClass": "Actividades.p59_FactorialNumeros",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p60_SumaTerminos",
+            "request": "launch",
+            "mainClass": "Actividades.p60_SumaTerminos",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p66_PromedioNumeros",
+            "request": "launch",
+            "mainClass": "Actividades.p66_PromedioNumeros",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p67_ConversionTemperaturas",
+            "request": "launch",
+            "mainClass": "Actividades.p67_ConversionTemperaturas",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p68_SumaRango",
+            "request": "launch",
+            "mainClass": "Actividades.p68_SumaRango",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p69_TablaMultiplicar",
+            "request": "launch",
+            "mainClass": "Actividades.p69_TablaMultiplicar",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p70_CalificacionLetra",
+            "request": "launch",
+            "mainClass": "Actividades.p70_CalificacionLetra",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p71_MayorTresNumeros",
+            "request": "launch",
+            "mainClass": "Actividades.p71_MayorTresNumeros",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p72_SumaDigitos",
+            "request": "launch",
+            "mainClass": "Actividades.p72_SumaDigitos",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p73_SumaParesImpares",
+            "request": "launch",
+            "mainClass": "Actividades.p73_SumaParesImpares",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p74_Factorial",
+            "request": "launch",
+            "mainClass": "Actividades.p74_Factorial",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p75_CuadroCaracter",
+            "request": "launch",
+            "mainClass": "Actividades.p75_CuadroCaracter",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p81_InicializaArregloNumeros",
+            "request": "launch",
+            "mainClass": "Actividades.p81_InicializaArregloNumeros",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p82_InicializaArregloCadenas",
+            "request": "launch",
+            "mainClass": "Actividades.p82_InicializaArregloCadenas",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p83_InicializaNombresEdades",
+            "request": "launch",
+            "mainClass": "Actividades.p83_InicializaNombresEdades",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p84_PromedioArreglo",
+            "request": "launch",
+            "mainClass": "Actividades.p84_PromedioArreglo",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p85_NombresEdades",
+            "request": "launch",
+            "mainClass": "Actividades.p85_NombresEdades",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p86_ArregloMostrar",
+            "request": "launch",
+            "mainClass": "Actividades.p86_ArregloMostrar",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p87_ArregloTemperaturas",
+            "request": "launch",
+            "mainClass": "Actividades.p87_ArregloTemperaturas",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p88_Aleatorios",
+            "request": "launch",
+            "mainClass": "Actividades.p88_Aleatorios",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p89_ArregloAleatorios",
+            "request": "launch",
+            "mainClass": "Actividades.p89_ArregloAleatorios",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p10_HipotenusaTriangulo",
+            "request": "launch",
+            "mainClass": "Practicas.p10_HipotenusaTriangulo",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p11_CalcularAngulo",
+            "request": "launch",
+            "mainClass": "Practicas.p11_CalcularAngulo",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p12_ConvertirTemperatura",
+            "request": "launch",
+            "mainClass": "Practicas.p12_ConvertirTemperatura",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p13_VolumenCilindro",
+            "request": "launch",
+            "mainClass": "Practicas.p13_VolumenCilindro",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p14_CalculoTiempo",
+            "request": "launch",
+            "mainClass": "Practicas.p14_CalculoTiempo",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p15_ConvertirADolares",
+            "request": "launch",
+            "mainClass": "Practicas.p15_ConvertirADolares",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p33_NumerosConsecutivos",
+            "request": "launch",
+            "mainClass": "Practicas.p33_NumerosConsecutivos",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p34_NumeroMayor",
+            "request": "launch",
+            "mainClass": "Practicas.p34_NumeroMayor",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p35_ContinentesMundo",
+            "request": "launch",
+            "mainClass": "Practicas.p35_ContinentesMundo",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p36_CompraPizza",
+            "request": "launch",
+            "mainClass": "Practicas.p36_CompraPizza",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p37_CalculoNotas",
+            "request": "launch",
+            "mainClass": "Practicas.p37_CalculoNotas",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p38_AceptarEstudianteV2",
+            "request": "launch",
+            "mainClass": "Practicas.p38_AceptarEstudianteV2",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p48_ImparesAscendente",
+            "request": "launch",
+            "mainClass": "Practicas.p48_ImparesAscendente",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p49_ParesDescendente",
+            "request": "launch",
+            "mainClass": "Practicas.p49_ParesDescendente",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p50_ConversionTemperaturas",
+            "request": "launch",
+            "mainClass": "Practicas.p50_ConversionTemperaturas",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p51_FibonacciSeries",
+            "request": "launch",
+            "mainClass": "Practicas.p51_FibonacciSeries",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p61_SecuenciaNumeros1",
+            "request": "launch",
+            "mainClass": "Practicas.p61_SecuenciaNumeros1",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p62_SecuenciaNumeros2",
+            "request": "launch",
+            "mainClass": "Practicas.p62_SecuenciaNumeros2",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p63_SumaTerminos1",
+            "request": "launch",
+            "mainClass": "Practicas.p63_SumaTerminos1",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p64_SumaTerminos2",
+            "request": "launch",
+            "mainClass": "Practicas.p64_SumaTerminos2",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p65_SistemaPapeleria",
+            "request": "launch",
+            "mainClass": "Practicas.p65_SistemaPapeleria",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p76_NumeroMenor",
+            "request": "launch",
+            "mainClass": "Practicas.p76_NumeroMenor",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p77_DiaSemana",
+            "request": "launch",
+            "mainClass": "Practicas.p77_DiaSemana",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p78_MedidasLongitud",
+            "request": "launch",
+            "mainClass": "Practicas.p78_MedidasLongitud",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p79_SumaMultiplos",
+            "request": "launch",
+            "mainClass": "Practicas.p79_SumaMultiplos",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p80_Angulo",
+            "request": "launch",
+            "mainClass": "Practicas.p80_Angulo",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p90_Temperaturas",
+            "request": "launch",
+            "mainClass": "Practicas.p90_Temperaturas",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p91_MayoresPromedio",
+            "request": "launch",
+            "mainClass": "Practicas.p91_MayoresPromedio",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p92_MayorMenor",
+            "request": "launch",
+            "mainClass": "Practicas.p92_MayorMenor",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "p93_ParesImpares",
+            "request": "launch",
+            "mainClass": "Practicas.p93_ParesImpares",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "App(1)",
+            "request": "launch",
+            "mainClass": "p094_Empleado01.App",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "App(2)",
+            "request": "launch",
+            "mainClass": "p095_Empleado02.App",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "App(3)",
+            "request": "launch",
+            "mainClass": "p096_Empleado03.App",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "App(4)",
+            "request": "launch",
+            "mainClass": "p097_Empleado04.App",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "App(5)",
+            "request": "launch",
+            "mainClass": "p099_Rectangulo.App",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "App(6)",
+            "request": "launch",
+            "mainClass": "p100_Articulo.App",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "App(7)",
+            "request": "launch",
+            "mainClass": "p101_TrabajoPersona.App",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "App(8)",
+            "request": "launch",
+            "mainClass": "p102_AutorLibro.App",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "App(9)",
+            "request": "launch",
+            "mainClass": "p103_ClienteFactura.App",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "pe01_PrimerExamenParcial",
+            "request": "launch",
+            "mainClass": "pe01_PrimerExamenParcial",
+            "projectName": "poo1yLab_687a6689"
+        }
+    ]
+}
