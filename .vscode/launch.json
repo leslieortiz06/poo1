@@ -8,6 +8,20 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "p109_FormaV2.App",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "p108_Vehiculo.App",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "p107_Forma.App",
             "projectName": "poo1yLab_687a6689"
         },
