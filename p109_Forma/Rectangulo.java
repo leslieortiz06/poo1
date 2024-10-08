@@ -1,4 +1,4 @@
-package p109_FormaV2;
+package p109_Forma;
 
 public class Rectangulo extends Forma{
     private double Largo;
