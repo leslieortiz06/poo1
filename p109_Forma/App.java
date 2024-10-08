@@ -1,4 +1,4 @@
-package p109_FormaV2;
+package p109_Forma;
 
 public class App {
     public static void main(String[] args) {
@@ -16,7 +16,7 @@ public class App {
         System.out.println(r2);
 
         System.out.println("\nCalculando áreas y perimetros de las figuras: ");
-        System.out.println("\nLa forma es un Circulo");
+        System.out.println("La forma es un Circulo");
         System.out.println("El área es: " + c1.getArea());
         System.out.println("El perimetro es: " + c1.getPerimetro());
         System.out.println("\nLa forma es un Circulo");
