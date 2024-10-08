@@ -8,6 +8,20 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "p107_Forma.App",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "p106_Persona.App",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "p104_PuntoCirculo.App",
             "projectName": "poo1yLab_687a6689"
         },
