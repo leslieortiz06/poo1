@@ -8,6 +8,13 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "p110_CuentaBancariaV1.App",
+            "projectName": "poo1yLab_687a6689"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "p109_Forma.App",
             "projectName": "poo1yLab_687a6689"
         },
