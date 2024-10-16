@@ -177,3 +177,6 @@
 
 ## Practica 11
 - p112_ControlVentas
+
+## Examen Segundo Parcial
+- p113_SegundoExamenParcial
