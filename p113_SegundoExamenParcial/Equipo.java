@@ -3,23 +3,26 @@ package p113_SegundoExamenParcial;
 import java.util.ArrayList;
 
 public class Equipo {
-    private String nombre;
-    private String liga;
-    private ArrayList<Jugador> jugadores;
+    private String Nombre;
+    private String Liga;
+    private ArrayList<Jugador> Jugadores;
+
+    public Equipo() {
+    }
 
     public Equipo(String nombre, String liga) {
-        this.nombre = nombre;
-        this.liga = liga;
-        this.jugadores = new ArrayList<>();
+        Nombre = nombre;
+        Liga = liga;
+        Jugadores = new ArrayList<>();
     }
 
     public void agregarJugador(Jugador jugador) {
-        jugadores.add(jugador);
+        Jugadores.add(jugador);
     }
 
     public double getTotalBono() {
         double totalBono = 0;
-        for (Jugador jugador : jugadores) {
+        for (Jugador jugador : Jugadores) {
             totalBono += jugador.getBono();
         }
         return totalBono;
@@ -27,7 +30,7 @@ public class Equipo {
 
     public double getTotal() {
         double total = 0;
-        for (Jugador jugador : jugadores) {
+        for (Jugador jugador : Jugadores) {
             total += jugador.Total;
         }
         return total;
@@ -35,7 +38,7 @@ public class Equipo {
 
     public int getTotalH() {
         int hombres = 0;
-        for (Jugador jugador : jugadores) {
+        for (Jugador jugador : Jugadores) {
             if (jugador.Sexo == 'H') {
                 hombres++;
             }
@@ -45,7 +48,7 @@ public class Equipo {
 
     public int getTotalM() {
         int mujeres = 0;
-        for (Jugador jugador : jugadores) {
+        for (Jugador jugador : Jugadores) {
             if (jugador.Sexo == 'M') {
                 mujeres++;
             }
@@ -54,15 +57,15 @@ public class Equipo {
     }
 
     public void reporte() {
-        System.out.println(">>" + this);
+        System.out.println(">> " + this);
         System.out.println();
-        for (Jugador jugador : jugadores) {
+        for (Jugador jugador : Jugadores) {
             System.out.println("- " + jugador);
         }
     }
 
     @Override
     public String toString() {
-        return "Equipo [Nombre=" + nombre + ", Liga=" + liga + ", Jugadores=" + jugadores.size() + ", Bono=" + getTotalBono() + ", Total=" + getTotal() + ", Hombres=" + getTotalH() + ", Mujeres=" + getTotalM() + "]";
+        return "Equipo [Nombre=" + Nombre + ", Liga=" + Liga + ", Jugadores=" + Jugadores.size() + ", Bono=" + getTotalBono() + ", Total=" + getTotal() + ", Hombres=" + getTotalH() + ", Mujeres=" + getTotalM() + "]";
     }
 }
