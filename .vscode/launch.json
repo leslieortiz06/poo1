@@ -8,6 +8,20 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "p113_SegundoExamenParcial.App",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "pe01_PrimerExamenParcial",
+            "request": "launch",
+            "mainClass": "pe01_PrimerExamenParcial",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "p112_ControlVentas.App",
             "projectName": "poo1_20ca9eb5"
         },
