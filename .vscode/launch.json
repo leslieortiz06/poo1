@@ -8,6 +8,13 @@
             "type": "java",
             "name": "App",
             "request": "launch",
+            "mainClass": "p116_Juego.App",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
             "mainClass": "p113_SegundoExamenParcial.App",
             "projectName": "poo1_20ca9eb5"
         },
