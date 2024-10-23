@@ -180,3 +180,9 @@
 
 ## Examen Segundo Parcial
 - p113_SegundoExamenParcial
+
+# Actividad 20
+- p114_Animal
+- p115_Telefono
+- p116_Juego
+- p117_FiguraGeometrica
