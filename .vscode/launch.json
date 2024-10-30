@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p23_ConvertirTemperaturas",
+            "request": "launch",
+            "mainClass": "Actividades.p23_ConvertirTemperaturas",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "p131_ExcepcionTemperatura.App",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "p134_Archivos3",
+            "request": "launch",
+            "mainClass": "p134_Archivos3",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "p133_Archivos2",
+            "request": "launch",
+            "mainClass": "p133_Archivos2",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "p127_MiExcepcion.App",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "p130_ExcepcionEdades",
+            "request": "launch",
+            "mainClass": "p130_ExcepcionEdades",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "p129_ExcepcionDulces",
+            "request": "launch",
+            "mainClass": "p129_ExcepcionDulces",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "p128_E",
+            "request": "launch",
+            "mainClass": "p128_E",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "p122_Excepcion2",
+            "request": "launch",
+            "mainClass": "p122_Excepcion2",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "p120_Vehiculo.App",
