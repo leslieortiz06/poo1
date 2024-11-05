@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "p136_Archivos5.App",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
             "name": "p23_ConvertirTemperaturas",
             "request": "launch",
             "mainClass": "Actividades.p23_ConvertirTemperaturas",
