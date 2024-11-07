@@ -22,6 +22,7 @@ public class Procesa {
             obj.nextLine();
             System.out.print("Sexo [H] o [M]: ");
             dato.setSexo(Character.toUpperCase(obj.next().charAt(0)));
+            obj.nextLine();
             datos.add(dato);
         }
     }
