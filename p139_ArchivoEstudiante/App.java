@@ -23,6 +23,7 @@ public class App {
             System.out.println("Salir ............................................ [ 9 ]");
             System.out.print("\nElije opcion ? ");
             op = obj.nextInt();
+            obj.nextLine();
 
             switch (op) {
                 case 1:
@@ -80,7 +81,6 @@ public class App {
                     break;
             }
             System.out.println("\n<Presiona <Enter> para Continuar>");
-            obj.nextLine();
             obj.nextLine();
         } while (op != 9);
         obj.close();

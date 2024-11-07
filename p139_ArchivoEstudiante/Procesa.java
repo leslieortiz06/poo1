@@ -24,7 +24,6 @@ public class Procesa {
             dato.setSexo(Character.toUpperCase(obj.next().charAt(0)));
             datos.add(dato);
         }
-        obj.close();
     }
 
     public static void grabarDatos(String archivo, ArrayList<Estudiante> datos) throws IOException {
@@ -63,10 +62,15 @@ public class Procesa {
     public static void promedioEdades(ArrayList<Estudiante> datos) {
         int totalEdad = 0;
         for (Estudiante dato : datos) {
-            totalEdad += dato.getPromedio();
+            totalEdad += dato.getEdad(); 
         }
-        System.out.println("Promedio de edades: " + (totalEdad / datos.size()));
+        if (!datos.isEmpty()) {
+            System.out.println("Promedio de edades: " + (totalEdad / datos.size()));
+        } else {
+            System.out.println("No hay datos para calcular el promedio de edades.");
+        }
     }
+    
 
     public static void cantidadHombres(ArrayList<Estudiante> datos) {
         int hombres = 0;
@@ -74,7 +78,6 @@ public class Procesa {
             if (dato.getSexo() == 'H') {
                 hombres++;
             }
-            hombres += dato.getPromedio();
         }
         System.out.println("Cantidad de hombres: " + hombres);
     }
@@ -85,7 +88,6 @@ public class Procesa {
             if (dato.getSexo() == 'H') {
                 mujeres++;
             }
-            mujeres += dato.getPromedio();
         }
         System.out.println("Cantidad de mujeres: " + mujeres);
     }
