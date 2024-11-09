@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p144_TemperaturasGUi",
+            "request": "launch",
+            "mainClass": "p144_TemperaturasGUi",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "PagaTrabajadorApp",
+            "request": "launch",
+            "mainClass": "PagaTrabajadorApp",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "p143_PagaTrabjadorGUI",
+            "request": "launch",
+            "mainClass": "p143_PagaTrabjadorGUI",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "p04_PagaTrabajadorGUI",
+            "request": "launch",
+            "mainClass": "p04_PagaTrabajadorGUI",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "p04_PagaTrabajadorGUI",
+            "request": "launch",
+            "mainClass": "Actividades.p04_PagaTrabajadorGUI",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "p04_PagaTrabajador",
+            "request": "launch",
+            "mainClass": "Actividades.p04_PagaTrabajador",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "p141_AreaTrianguloGUI",
+            "request": "launch",
+            "mainClass": "p141_AreaTrianguloGUI",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "p142_LeyDeNewtonGUI",
+            "request": "launch",
+            "mainClass": "p142_LeyDeNewtonGUI",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "p139_ArchivoEstudiante.App",
