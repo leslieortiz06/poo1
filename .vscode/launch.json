@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "JugadorApp",
+            "request": "launch",
+            "mainClass": "JugadorApp",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "p147_TercerExamenParcial.App",
+            "projectName": "poo1_20ca9eb5"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "p146_EstudianteGUI_V2.App",
